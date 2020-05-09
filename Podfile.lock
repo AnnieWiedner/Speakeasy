@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.1.0)
+  - Cartography (4.0.0)
+  - MarkdownKit (1.6)
+  - Moya (14.0.0):
+    - Moya/Core (= 14.0.0)
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+
+DEPENDENCIES:
+  - Cartography
+  - MarkdownKit
+  - Moya
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Cartography
+    - MarkdownKit
+    - Moya
+
+SPEC CHECKSUMS:
+  Alamofire: 9d5c5f602928e512395b30950c5984eca840093c
+  Cartography: c5626d29056b20f1e95c017326ee4df57cc39ad8
+  MarkdownKit: 6aa4aee263c7efae3de570cded0767f85c38fc78
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+
+PODFILE CHECKSUM: 20c1a35cb0b3632b23f4e040d48dd60b6b9f07d6
+
+COCOAPODS: 1.9.1
